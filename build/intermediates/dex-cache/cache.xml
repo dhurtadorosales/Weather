@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/diego/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.0/7ff0e000d1e27e356567f56c92af3b8ab912636f/picasso-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="/home/diego/AndroidStudioProjects/HttpRequestRetrofit/app/build/intermediates/pre-dexed/debug/picasso-2.5.0_3a71951af0e4135e66af9eb8f5dfbed55567d98e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/diego/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/home/diego/AndroidStudioProjects/HttpRequestRetrofit/app/build/intermediates/pre-dexed/debug/retrofit-2.2.0_3eed86ccc2317f308d3baadaf76d456897287a24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/diego/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/diego/AndroidStudioProjects/HttpRequestRetrofit/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_dd9d4f7e74e6892898d0be78277aac9d9d95fe27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/diego/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/home/diego/AndroidStudioProjects/HttpRequestRetrofit/app/build/intermediates/pre-dexed/debug/okio-1.11.0_05bb020be34d7bb4dd2f4f8c4f5ecf8785d4e0c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/diego/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.2.0/a09926806199499a20b2f5168779499abfa33342/converter-gson-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="/home/diego/AndroidStudioProjects/HttpRequestRetrofit/app/build/intermediates/pre-dexed/debug/converter-gson-2.2.0_9c18b6bc468d61d6be00e5398403b184c639fa6e.jar" />
+    </item>
+
+</items>
